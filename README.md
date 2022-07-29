@@ -1,1 +1,1 @@
-# 잉친네이션
+![image](.assets/img/ingchination__banner.png)
